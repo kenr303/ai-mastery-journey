@@ -6,6 +6,6 @@ def dot_product (v1, v2):
         total += v1[i] * v2[i]
     return total
 
-a = [1, 2, 3]
-b = [4, 5, 6]
+a = [2, 3]
+b = [-3, -5]
 print("Dot Product:", dot_product (a, b))

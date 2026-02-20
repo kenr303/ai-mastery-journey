@@ -1,6 +1,8 @@
 import numpy as np
 
-a = np.array ([1, 2, 3])
-b = np.array ([4, 5, 6])
+v = np.array([1, 2, 2])
 
-print ("Dot Product", np.dot(a, b))
+
+
+
+print ("Magnitude:", np.linalg.norm(v))
