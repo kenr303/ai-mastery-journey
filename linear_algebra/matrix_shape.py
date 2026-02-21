@@ -1,0 +1,9 @@
+import numpy as np
+
+A = np.array ([[1, 2], [3, 4]])
+B = np.array ([[5, 6, 7], [8, 9, 10]])
+
+print(A)
+print(A.shape)
+print(B)
+print(B.shape)
